@@ -2,7 +2,7 @@
 
 Este repositório é dedicado a projetos e exemplos práticos de automação utilizando **Inteligência Artificial**, com foco especial em **Processamento de Linguagem Natural (PLN)** e **Processamento de Imagem**. Aqui você encontrará scripts e aplicações desenvolvidos para automatizar tarefas complexas, explorando ideias inovadoras e conhecimentos adquiridos em estudos e práticas de automação.
 
-## 📌 Conteúdo do Repositório
+## 📌 Conteúdo do Repositório:
 
 ### Processamento de Linguagem Natural (PLN)
 - **Análise de Sentimentos**  
@@ -20,7 +20,7 @@ Este repositório é dedicado a projetos e exemplos práticos de automação uti
 - **Resumo de Textos**  
   Algoritmos de sumarização que condensam grandes blocos de texto em resumos concisos, auxiliando em revisões de documentos e pesquisas.
 
-### Processamento de Imagem
+### Processamento de Imagem:
 - **Detecção Facial**  
   Projeto de reconhecimento e detecção de rostos em imagens, com técnicas que identificam e destacam características faciais, ideal para sistemas de segurança e autenticação.
 
@@ -33,7 +33,7 @@ Este repositório é dedicado a projetos e exemplos práticos de automação uti
 - **Reconhecimento de Texto em Imagem (OCR)**  
   Uso de algoritmos de OCR para extrair e processar texto de imagens, útil para digitalização de documentos e automação de leitura de textos em ambientes visuais.
 
-## 🚀 Objetivo
+## 🚀 Objetivo:
 
 Este repositório centraliza ideias e ferramentas de automação com IA, promovendo o aprendizado contínuo e a troca de conhecimentos sobre o desenvolvimento de soluções inteligentes e eficientes. Ideal para quem busca aprimorar suas habilidades em IA e explorar o potencial do PLN e Processamento de Imagem em projetos práticos de automação.
 
