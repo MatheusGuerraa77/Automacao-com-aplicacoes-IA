@@ -7,7 +7,7 @@ from nltk.probability import FreqDist
 # nltk.download('punkt_tab')
 
 
-# 1 - Importação do texto
+# 1 - Importação do Texto
 with open(os.path.join('data', 'texto.txt'), 'r', encoding='utf-8') as file:
     texto = file.read()
     print(texto)
